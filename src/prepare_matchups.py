@@ -102,22 +102,21 @@ team_games = pd.DataFrame(records)
 # --------------------------------------------------
 
 stats = [
-    "pts_scored",
-    "pts_allowed",
-    "pass_yards",
-    "rush_yards",
-    "total_yards",
-    "turnovers",
-    "comp_pct",
-    "pen_yards"
+    "pts_scored","pts_allowed","pass_yards","rush_yards",
+    "total_yards","turnovers","comp_pct","pen_yards"
 ]
 
-team_averages = (
-    team_games
-    .groupby(["season", "team"])[stats]
-    .mean()
-    .reset_index()
+team_games["win"] = (
+    team_games["pts_scored"] > team_games["pts_allowed"]
+).astype(int)
+
+team_games["point_diff"] = (
+    team_games["pts_scored"] - team_games["pts_allowed"]
 )
+
+team_averages = team_games.groupby(
+    ["season", "team"]
+)[stats + ["win", "point_diff"]].mean().reset_index()
 
 print("\nTeam-season averages created:")
 print(team_averages.head())
@@ -127,7 +126,7 @@ print(team_averages.head())
 # 5. ADD HOME TEAM STATISTICS
 # --------------------------------------------------
 
-home_stats = team_averages.copy()
+home_stats = team_averages.copy().rename(columns={"team":"home"})
 
 home_stats = home_stats.rename(
     columns={
@@ -135,11 +134,9 @@ home_stats = home_stats.rename(
     }
 )
 
-for stat in stats:
+for stat in stats + ["win", "point_diff"]:
     home_stats = home_stats.rename(
-        columns={
-            stat: "home_" + stat
-        }
+        columns={stat:"home_"+stat}
     )
 
 
@@ -147,7 +144,7 @@ for stat in stats:
 # 6. ADD AWAY TEAM STATISTICS
 # --------------------------------------------------
 
-away_stats = team_averages.copy()
+away_stats = team_averages.copy().rename(columns={"team":"away"})
 
 away_stats = away_stats.rename(
     columns={
@@ -155,11 +152,9 @@ away_stats = away_stats.rename(
     }
 )
 
-for stat in stats:
+for stat in stats + ["win", "point_diff"]:
     away_stats = away_stats.rename(
-        columns={
-            stat: "away_" + stat
-        }
+        columns={stat:"away_"+stat}
     )
 
 
@@ -201,9 +196,9 @@ postseason_data = postseason_data.merge(
 
 feature_columns = []
 
-for stat in stats:
-    feature_columns.append("home_" + stat)
-    feature_columns.append("away_" + stat)
+for stat in stats + ["win", "point_diff"]:
+    feature_columns.append("home_"+stat)
+    feature_columns.append("away_"+stat)
 
 
 before = len(postseason_data)
