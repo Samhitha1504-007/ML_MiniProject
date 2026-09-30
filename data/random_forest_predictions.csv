@@ -1,0 +1,136 @@
+season,date,away,home,score_away,score_home,actual_winner,predicted_difference,predicted_winner,correct_prediction
+2023,2023-12-16,Georgia Southern,Ohio,21,41,Ohio,12.53,Ohio,True
+2023,2023-12-16,Jacksonville State,UL-Lafayette,34,31,Jacksonville State,-3.72,Jacksonville State,True
+2023,2023-12-16,Miami (OH),Appalachian State,9,13,Appalachian State,-3.42,Miami (OH),False
+2023,2023-12-16,New Mexico State,Fresno State,10,37,Fresno State,-5.2,New Mexico State,False
+2023,2023-12-16,UCLA,Boise State,35,22,UCLA,-4.37,UCLA,True
+2023,2023-12-16,California,Texas Tech,14,34,Texas Tech,6.58,Texas Tech,True
+2023,2023-12-18,Western Kentucky,Old Dominion,38,35,Western Kentucky,0.36,Old Dominion,False
+2023,2023-12-19,UTSA,Marshall,35,17,UTSA,0.91,Marshall,False
+2023,2023-12-21,USF,Syracuse,45,0,USF,5.4,Syracuse,False
+2023,2023-12-22,Georgia Tech,UCF,30,17,Georgia Tech,-0.48,Georgia Tech,True
+2023,2023-12-23,Troy,Duke,10,17,Duke,-4.74,Troy,False
+2023,2023-12-23,Arkansas State,Northern Illinois,19,21,Northern Illinois,7.94,Northern Illinois,True
+2023,2023-12-23,James Madison,Air Force,21,31,Air Force,4.2,Air Force,True
+2023,2023-12-23,Georgia State,Utah State,45,22,Georgia State,-1.84,Georgia State,True
+2023,2023-12-23,Eastern Michigan,South Alabama,10,59,South Alabama,6.8,South Alabama,True
+2023,2023-12-23,Utah,Northwestern,7,14,Northwestern,-6.61,Utah,False
+2023,2023-12-23,Coastal Carolina,San Jose State,24,14,Coastal Carolina,5.95,San Jose State,False
+2023,2023-12-26,Bowling Green,Minnesota,24,30,Minnesota,-1.28,Bowling Green,False
+2023,2023-12-26,Texas State,Rice,45,21,Texas State,3.84,Rice,False
+2023,2023-12-26,Kansas,UNLV,49,36,Kansas,-2.9,Kansas,True
+2023,2023-12-27,Virginia Tech,Tulane,41,20,Virginia Tech,2.22,Tulane,False
+2023,2023-12-27,North Carolina,West Virginia,10,30,West Virginia,-2.88,North Carolina,False
+2023,2023-12-27,Louisville,USC,28,42,USC,-1.42,Louisville,False
+2023,2023-12-27,Texas A&M,Oklahoma State,23,31,Oklahoma State,-2.32,Texas A&M,False
+2023,2023-12-28,SMU,Boston College,14,23,Boston College,-8.72,SMU,False
+2023,2023-12-28,Rutgers,Miami (FL),31,24,Rutgers,8.85,Miami (FL),False
+2023,2023-12-28,NC State,Kansas State,19,28,Kansas State,4.1,Kansas State,True
+2023,2023-12-28,Arizona,Oklahoma,38,24,Arizona,12.66,Oklahoma,False
+2023,2023-12-29,Clemson,Kentucky,38,35,Clemson,-3.58,Clemson,True
+2023,2023-12-29,Oregon State,Notre Dame,8,40,Notre Dame,4.84,Notre Dame,True
+2023,2023-12-29,Iowa State,Memphis,26,36,Memphis,3.42,Memphis,True
+2023,2023-12-29,Missouri,Ohio State,14,3,Missouri,10.24,Ohio State,False
+2023,2023-12-30,Ole Miss,Penn State,38,25,Ole Miss,8.31,Penn State,False
+2023,2023-12-30,Auburn,Maryland,13,31,Maryland,-0.78,Auburn,False
+2023,2023-12-30,Georgia,Florida State,63,3,Georgia,-8.38,Georgia,True
+2023,2023-12-30,Toledo,Wyoming,15,16,Wyoming,-6.58,Toledo,False
+2023,2024-01-01,Wisconsin,LSU,31,35,LSU,8.69,LSU,True
+2023,2024-01-01,Liberty,Oregon,6,45,Oregon,7.2,Oregon,True
+2023,2024-01-01,Iowa,Tennessee,0,35,Tennessee,9.16,Tennessee,True
+2023,2024-01-01,Alabama,Michigan,20,27,Michigan,8.77,Michigan,True
+2023,2024-01-01,Texas,Washington,31,37,Washington,-1.35,Texas,False
+2023,2024-01-08,Washington,Michigan,13,34,Michigan,12.38,Michigan,True
+2024,2024-12-14,South Alabama,Western Michigan,30,23,South Alabama,-2.3,South Alabama,True
+2024,2024-12-17,Memphis,West Virginia,42,37,Memphis,-4.14,Memphis,True
+2024,2024-12-18,Western Kentucky,James Madison,17,27,James Madison,6.16,James Madison,True
+2024,2024-12-18,California,UNLV,13,24,UNLV,2.72,UNLV,True
+2024,2024-12-19,Georgia Southern,Sam Houston State,26,31,Sam Houston State,6.4,Sam Houston State,True
+2024,2024-12-20,Ohio,Jacksonville State,30,27,Ohio,-4.1,Ohio,True
+2024,2024-12-20,Tulane,Florida,8,33,Florida,-4.58,Tulane,False
+2024,2024-12-20,Indiana,Notre Dame,17,27,Notre Dame,-0.72,Indiana,False
+2024,2024-12-21,SMU,Penn State,10,38,Penn State,2.18,Penn State,True
+2024,2024-12-21,Clemson,Texas,24,38,Texas,15.06,Texas,True
+2024,2024-12-21,Tennessee,Ohio State,17,42,Ohio State,-7.54,Tennessee,False
+2024,2024-12-23,UTSA,Coastal Carolina,44,15,UTSA,1.54,Coastal Carolina,False
+2024,2024-12-23,Northern Illinois,Fresno State,28,20,Northern Illinois,-6.98,Northern Illinois,True
+2024,2024-12-24,USF,San Jose State,41,39,USF,6.93,San Jose State,False
+2024,2024-12-26,Pittsburgh,Toledo,46,48,Toledo,4.52,Toledo,True
+2024,2024-12-26,Rutgers,Kansas State,41,44,Kansas State,3.53,Kansas State,True
+2024,2024-12-26,Arkansas State,Bowling Green,38,31,Arkansas State,5.43,Bowling Green,False
+2024,2024-12-27,Oklahoma,Navy,20,21,Navy,2.64,Navy,True
+2024,2024-12-27,Georgia Tech,Vanderbilt,27,35,Vanderbilt,-5.18,Georgia Tech,False
+2024,2024-12-27,Texas Tech,Arkansas,26,39,Arkansas,1.7,Arkansas,True
+2024,2024-12-27,Syracuse,Washington State,52,35,Syracuse,8.32,Washington State,False
+2024,2024-12-27,USC,Texas A&M,35,31,USC,2.27,Texas A&M,False
+2024,2024-12-28,Connecticut,North Carolina,27,14,Connecticut,-3.66,Connecticut,True
+2024,2024-12-28,Boston College,Nebraska,15,20,Nebraska,1.58,Nebraska,True
+2024,2024-12-28,UL-Lafayette,TCU,3,34,TCU,-2.92,UL-Lafayette,False
+2024,2024-12-28,Iowa State,Miami (FL),42,41,Iowa State,7.48,Miami (FL),False
+2024,2024-12-28,Miami (OH),Colorado State,43,17,Miami (OH),-1.02,Miami (OH),True
+2024,2024-12-28,East Carolina,NC State,26,21,East Carolina,-0.5,East Carolina,True
+2024,2024-12-28,BYU,Colorado,36,14,BYU,7.39,Colorado,False
+2024,2024-12-28,Louisiana Tech,Army,6,27,Army,3.4,Army,True
+2024,2024-12-30,Iowa,Missouri,24,27,Missouri,1.34,Missouri,True
+2024,2024-12-31,Alabama,Michigan,13,19,Michigan,-6.84,Alabama,False
+2024,2024-12-31,Louisville,Washington,35,34,Louisville,-3.68,Louisville,True
+2024,2024-12-31,South Carolina,Illinois,17,21,Illinois,-3.76,South Carolina,False
+2024,2024-12-31,Baylor,LSU,31,44,LSU,-4.53,Baylor,False
+2024,2024-12-31,Penn State,Boise State,31,14,Penn State,-2.39,Penn State,True
+2024,2025-01-01,Texas,Arizona State,39,31,Texas,-10.26,Texas,True
+2024,2025-01-01,Ohio State,Oregon,41,21,Ohio State,-9.9,Ohio State,True
+2024,2025-01-02,Notre Dame,Georgia,23,10,Notre Dame,-9.1,Notre Dame,True
+2024,2025-01-02,Duke,Ole Miss,20,52,Ole Miss,9.4,Ole Miss,True
+2024,2025-01-03,North Texas,Texas State,28,30,Texas State,6.58,Texas State,True
+2024,2025-01-03,Minnesota,Virginia Tech,24,10,Minnesota,0.5,Virginia Tech,False
+2024,2025-01-04,Buffalo,Liberty,26,7,Buffalo,4.58,Liberty,False
+2024,2025-01-09,Notre Dame,Penn State,27,24,Notre Dame,-10.33,Notre Dame,True
+2024,2025-01-10,Ohio State,Texas,28,14,Ohio State,-8.59,Ohio State,True
+2024,2025-01-20,Ohio State,Notre Dame,34,23,Ohio State,-6.96,Ohio State,True
+2025,2025-12-13,Army,Navy,16,17,Navy,-1.8,Army,False
+2025,2025-12-13,Boise State,Washington,10,38,Washington,7.14,Washington,True
+2025,2025-12-16,Troy,Jacksonville State,13,17,Jacksonville State,2.67,Jacksonville State,True
+2025,2025-12-17,Old Dominion,USF,24,10,Old Dominion,2.72,USF,False
+2025,2025-12-17,UL-Lafayette,Delaware,13,20,Delaware,-4.88,UL-Lafayette,False
+2025,2025-12-18,Missouri State,Arkansas State,28,34,Arkansas State,3.07,Arkansas State,True
+2025,2025-12-19,Kennesaw State,Western Michigan,6,41,Western Michigan,5.63,Western Michigan,True
+2025,2025-12-19,Memphis,NC State,7,31,NC State,-4.26,Memphis,False
+2025,2025-12-19,Alabama,Oklahoma,34,24,Alabama,0.1,Oklahoma,False
+2025,2025-12-20,Miami (FL),Texas A&M,10,3,Miami (FL),-6.64,Miami (FL),True
+2025,2025-12-20,Tulane,Ole Miss,10,41,Ole Miss,1.94,Ole Miss,True
+2025,2025-12-20,James Madison,Oregon,34,51,Oregon,-4.9,James Madison,False
+2025,2025-12-22,Washington State,Utah State,34,21,Washington State,-4.0,Washington State,True
+2025,2025-12-23,Toledo,Louisville,22,27,Louisville,-6.93,Toledo,False
+2025,2025-12-23,Western Kentucky,Southern Miss,27,16,Western Kentucky,0.06,Southern Miss,False
+2025,2025-12-23,UNLV,Ohio,10,17,Ohio,2.95,Ohio,True
+2025,2025-12-24,California,Hawaii,31,35,Hawaii,7.24,Hawaii,True
+2025,2025-12-26,Central Michigan,Northwestern,7,34,Northwestern,3.06,Northwestern,True
+2025,2025-12-26,New Mexico,Minnesota,17,20,Minnesota,-5.76,New Mexico,False
+2025,2025-12-26,FIU,UTSA,20,57,UTSA,2.68,UTSA,True
+2025,2025-12-27,Pittsburgh,East Carolina,17,23,East Carolina,4.62,East Carolina,True
+2025,2025-12-27,Penn State,Clemson,22,10,Penn State,0.27,Clemson,False
+2025,2025-12-27,Connecticut,Army,16,41,Army,2.4,Army,True
+2025,2025-12-27,Georgia Tech,BYU,21,25,BYU,3.08,BYU,True
+2025,2025-12-27,Miami (OH),Fresno State,3,18,Fresno State,4.94,Fresno State,True
+2025,2025-12-27,North Texas,San Diego State,49,47,North Texas,2.38,San Diego State,False
+2025,2025-12-27,Virginia,Missouri,13,7,Virginia,3.96,Missouri,False
+2025,2025-12-27,LSU,Houston,35,38,Houston,4.32,Houston,True
+2025,2025-12-29,Georgia Southern,Appalachian State,29,10,Georgia Southern,2.22,Appalachian State,False
+2025,2025-12-30,Coastal Carolina,Louisiana Tech,14,23,Louisiana Tech,11.36,Louisiana Tech,True
+2025,2025-12-30,Tennessee,Illinois,28,30,Illinois,0.76,Illinois,True
+2025,2025-12-30,USC,TCU,27,30,TCU,-0.3,USC,False
+2025,2025-12-31,Iowa,Vanderbilt,34,27,Iowa,4.57,Vanderbilt,False
+2025,2025-12-31,Arizona State,Duke,39,42,Duke,-1.2,Arizona State,False
+2025,2025-12-31,Michigan,Texas,27,41,Texas,2.71,Texas,True
+2025,2025-12-31,Nebraska,Utah,22,44,Utah,8.35,Utah,True
+2025,2025-12-31,Miami (FL),Ohio State,24,14,Miami (FL),-2.72,Miami (FL),True
+2025,2026-01-01,Oregon,Texas Tech,23,0,Oregon,-3.11,Oregon,True
+2025,2026-01-01,Alabama,Indiana,3,38,Indiana,10.6,Indiana,True
+2025,2026-01-01,Ole Miss,Georgia,39,34,Ole Miss,0.55,Georgia,False
+2025,2026-01-02,Rice,Texas State,10,41,Texas State,-2.17,Rice,False
+2025,2026-01-02,Navy,Cincinnati,35,13,Navy,-0.9,Navy,True
+2025,2026-01-02,Wake Forest,Mississippi State,43,29,Wake Forest,-4.81,Wake Forest,True
+2025,2026-01-02,Arizona,SMU,19,24,SMU,1.9,SMU,True
+2025,2026-01-08,Miami (FL),Ole Miss,31,27,Miami (FL),-7.92,Miami (FL),True
+2025,2026-01-09,Oregon,Indiana,22,56,Indiana,1.3,Indiana,True
+2025,2026-01-19,Miami (FL),Indiana,21,27,Indiana,1.33,Indiana,True
