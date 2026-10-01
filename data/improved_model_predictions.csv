@@ -1,0 +1,136 @@
+season,date,away,home,score_away,score_home,actual_winner,predicted_winner,win_probability,confidence_level,correct_prediction
+2023,2023-12-16,Georgia Southern,Ohio,21,41,Ohio,Ohio,0.6467220786365058,Medium,True
+2023,2023-12-16,Jacksonville State,UL-Lafayette,34,31,Jacksonville State,Jacksonville State,0.5258688118501832,Low,True
+2023,2023-12-16,Miami (OH),Appalachian State,9,13,Appalachian State,Miami (OH),0.5367588418772271,Low,False
+2023,2023-12-16,New Mexico State,Fresno State,10,37,Fresno State,Fresno State,0.5024343287577926,Low,True
+2023,2023-12-16,UCLA,Boise State,35,22,UCLA,UCLA,0.5346884360551244,Low,True
+2023,2023-12-16,California,Texas Tech,14,34,Texas Tech,Texas Tech,0.6016182260321352,Medium,True
+2023,2023-12-18,Western Kentucky,Old Dominion,38,35,Western Kentucky,Western Kentucky,0.5097348793590781,Low,True
+2023,2023-12-19,UTSA,Marshall,35,17,UTSA,UTSA,0.578631186633359,Medium,True
+2023,2023-12-21,USF,Syracuse,45,0,USF,Syracuse,0.6934514833983518,High,False
+2023,2023-12-22,Georgia Tech,UCF,30,17,Georgia Tech,UCF,0.6622545785731686,High,False
+2023,2023-12-23,Troy,Duke,10,17,Duke,Troy,0.5353865403233704,Low,False
+2023,2023-12-23,Arkansas State,Northern Illinois,19,21,Northern Illinois,Northern Illinois,0.7293306102804524,High,True
+2023,2023-12-23,James Madison,Air Force,21,31,Air Force,Air Force,0.5131711938412199,Low,True
+2023,2023-12-23,Georgia State,Utah State,45,22,Georgia State,Utah State,0.5825035809164474,Medium,False
+2023,2023-12-23,Eastern Michigan,South Alabama,10,59,South Alabama,South Alabama,0.7459600782037067,High,True
+2023,2023-12-23,Utah,Northwestern,7,14,Northwestern,Utah,0.55849753663807,Medium,False
+2023,2023-12-23,Coastal Carolina,San Jose State,24,14,Coastal Carolina,San Jose State,0.5286197221787512,Low,False
+2023,2023-12-26,Bowling Green,Minnesota,24,30,Minnesota,Bowling Green,0.5756751738455348,Medium,False
+2023,2023-12-26,Texas State,Rice,45,21,Texas State,Rice,0.6125113841808436,Medium,False
+2023,2023-12-26,Kansas,UNLV,49,36,Kansas,Kansas,0.5006652692583595,Low,True
+2023,2023-12-27,Virginia Tech,Tulane,41,20,Virginia Tech,Tulane,0.5783571132352956,Medium,False
+2023,2023-12-27,North Carolina,West Virginia,10,30,West Virginia,North Carolina,0.5541872339992888,Medium,False
+2023,2023-12-27,Louisville,USC,28,42,USC,Louisville,0.6322258368476508,Medium,False
+2023,2023-12-27,Texas A&M,Oklahoma State,23,31,Oklahoma State,Texas A&M,0.6890892157627737,High,False
+2023,2023-12-28,SMU,Boston College,14,23,Boston College,SMU,0.7903200994727957,High,False
+2023,2023-12-28,Rutgers,Miami (FL),31,24,Rutgers,Miami (FL),0.6688062779151296,High,False
+2023,2023-12-28,NC State,Kansas State,19,28,Kansas State,Kansas State,0.667459319276546,High,True
+2023,2023-12-28,Arizona,Oklahoma,38,24,Arizona,Oklahoma,0.584850117570262,Medium,False
+2023,2023-12-29,Clemson,Kentucky,38,35,Clemson,Clemson,0.6057793419200963,Medium,True
+2023,2023-12-29,Oregon State,Notre Dame,8,40,Notre Dame,Notre Dame,0.6960053841854117,High,True
+2023,2023-12-29,Iowa State,Memphis,26,36,Memphis,Memphis,0.5121989473307431,Low,True
+2023,2023-12-29,Missouri,Ohio State,14,3,Missouri,Ohio State,0.741131153398394,High,False
+2023,2023-12-30,Ole Miss,Penn State,38,25,Ole Miss,Penn State,0.7584025574957953,High,False
+2023,2023-12-30,Auburn,Maryland,13,31,Maryland,Maryland,0.5404746288165242,Low,True
+2023,2023-12-30,Georgia,Florida State,63,3,Georgia,Georgia,0.5506380034059299,Medium,True
+2023,2023-12-30,Toledo,Wyoming,15,16,Wyoming,Toledo,0.5900230719890154,Medium,False
+2023,2024-01-01,Wisconsin,LSU,31,35,LSU,LSU,0.5812343876428058,Medium,True
+2023,2024-01-01,Liberty,Oregon,6,45,Oregon,Oregon,0.7294756841747339,High,True
+2023,2024-01-01,Iowa,Tennessee,0,35,Tennessee,Tennessee,0.5700829606708301,Medium,True
+2023,2024-01-01,Alabama,Michigan,20,27,Michigan,Michigan,0.7319472698744619,High,True
+2023,2024-01-01,Texas,Washington,31,37,Washington,Texas,0.6103310579795747,Medium,False
+2023,2024-01-08,Washington,Michigan,13,34,Michigan,Michigan,0.7895610890853215,High,True
+2024,2024-12-14,South Alabama,Western Michigan,30,23,South Alabama,South Alabama,0.6488729168865159,Medium,True
+2024,2024-12-17,Memphis,West Virginia,42,37,Memphis,Memphis,0.6238124615066188,Medium,True
+2024,2024-12-18,Western Kentucky,James Madison,17,27,James Madison,James Madison,0.6480247275462244,Medium,True
+2024,2024-12-18,California,UNLV,13,24,UNLV,UNLV,0.5783976090292076,Medium,True
+2024,2024-12-19,Georgia Southern,Sam Houston State,26,31,Sam Houston State,Sam Houston State,0.6035916874587549,Medium,True
+2024,2024-12-20,Ohio,Jacksonville State,30,27,Ohio,Ohio,0.5692597334378185,Medium,True
+2024,2024-12-20,Tulane,Florida,8,33,Florida,Tulane,0.6420019383790401,Medium,False
+2024,2024-12-20,Indiana,Notre Dame,17,27,Notre Dame,Notre Dame,0.523546473211694,Low,True
+2024,2024-12-21,SMU,Penn State,10,38,Penn State,Penn State,0.5831553596583148,Medium,True
+2024,2024-12-21,Clemson,Texas,24,38,Texas,Texas,0.7355218371566431,High,True
+2024,2024-12-21,Tennessee,Ohio State,17,42,Ohio State,Ohio State,0.5927819381390623,Medium,True
+2024,2024-12-23,UTSA,Coastal Carolina,44,15,UTSA,UTSA,0.5060279492929081,Low,True
+2024,2024-12-23,Northern Illinois,Fresno State,28,20,Northern Illinois,Northern Illinois,0.5463569524515355,Low,True
+2024,2024-12-24,USF,San Jose State,41,39,USF,San Jose State,0.5525867667275538,Medium,False
+2024,2024-12-26,Pittsburgh,Toledo,46,48,Toledo,Toledo,0.5974460504672886,Medium,True
+2024,2024-12-26,Rutgers,Kansas State,41,44,Kansas State,Kansas State,0.6080035310846944,Medium,True
+2024,2024-12-26,Arkansas State,Bowling Green,38,31,Arkansas State,Bowling Green,0.7753240811005223,High,False
+2024,2024-12-27,Oklahoma,Navy,20,21,Navy,Navy,0.5183855258550006,Low,True
+2024,2024-12-27,Georgia Tech,Vanderbilt,27,35,Vanderbilt,Vanderbilt,0.5256005518616647,Low,True
+2024,2024-12-27,Texas Tech,Arkansas,26,39,Arkansas,Arkansas,0.6957062555499096,High,True
+2024,2024-12-27,Syracuse,Washington State,52,35,Syracuse,Washington State,0.5989061064670835,Medium,False
+2024,2024-12-27,USC,Texas A&M,35,31,USC,Texas A&M,0.5157190356154419,Low,False
+2024,2024-12-28,Connecticut,North Carolina,27,14,Connecticut,Connecticut,0.5117792516211134,Low,True
+2024,2024-12-28,Boston College,Nebraska,15,20,Nebraska,Nebraska,0.5966215772564816,Medium,True
+2024,2024-12-28,UL-Lafayette,TCU,3,34,TCU,TCU,0.5325171906621111,Low,True
+2024,2024-12-28,Iowa State,Miami (FL),42,41,Iowa State,Miami (FL),0.6376395546245266,Medium,False
+2024,2024-12-28,Miami (OH),Colorado State,43,17,Miami (OH),Miami (OH),0.5544591645776751,Medium,True
+2024,2024-12-28,East Carolina,NC State,26,21,East Carolina,East Carolina,0.5501727139557666,Medium,True
+2024,2024-12-28,BYU,Colorado,36,14,BYU,Colorado,0.5618773282638652,Medium,False
+2024,2024-12-28,Louisiana Tech,Army,6,27,Army,Army,0.5910096886001552,Medium,True
+2024,2024-12-30,Iowa,Missouri,24,27,Missouri,Iowa,0.539746498887836,Low,False
+2024,2024-12-31,Alabama,Michigan,13,19,Michigan,Alabama,0.6543828546419759,High,False
+2024,2024-12-31,Louisville,Washington,35,34,Louisville,Louisville,0.5600852211583756,Medium,True
+2024,2024-12-31,South Carolina,Illinois,17,21,Illinois,South Carolina,0.619080256417753,Medium,False
+2024,2024-12-31,Baylor,LSU,31,44,LSU,LSU,0.5292290586733656,Low,True
+2024,2024-12-31,Penn State,Boise State,31,14,Penn State,Penn State,0.5668583002955834,Medium,True
+2024,2025-01-01,Texas,Arizona State,39,31,Texas,Texas,0.7046455135622707,High,True
+2024,2025-01-01,Ohio State,Oregon,41,21,Ohio State,Ohio State,0.6416118048703454,Medium,True
+2024,2025-01-02,Notre Dame,Georgia,23,10,Notre Dame,Notre Dame,0.6528947711505504,High,True
+2024,2025-01-02,Duke,Ole Miss,20,52,Ole Miss,Ole Miss,0.8086498728966636,High,True
+2024,2025-01-03,North Texas,Texas State,28,30,Texas State,Texas State,0.7608402430630155,High,True
+2024,2025-01-03,Minnesota,Virginia Tech,24,10,Minnesota,Minnesota,0.5146164378660003,Low,True
+2024,2025-01-04,Buffalo,Liberty,26,7,Buffalo,Liberty,0.6591290678368007,High,False
+2024,2025-01-09,Notre Dame,Penn State,27,24,Notre Dame,Notre Dame,0.5607827015241036,Medium,True
+2024,2025-01-10,Ohio State,Texas,28,14,Ohio State,Ohio State,0.5070231906238833,Low,True
+2024,2025-01-20,Ohio State,Notre Dame,34,23,Ohio State,Ohio State,0.5126652302683368,Low,True
+2025,2025-12-13,Army,Navy,16,17,Navy,Navy,0.5081374503942409,Low,True
+2025,2025-12-13,Boise State,Washington,10,38,Washington,Washington,0.6594544092320681,High,True
+2025,2025-12-16,Troy,Jacksonville State,13,17,Jacksonville State,Jacksonville State,0.5657899199465551,Medium,True
+2025,2025-12-17,Old Dominion,USF,24,10,Old Dominion,USF,0.557766830569602,Medium,False
+2025,2025-12-17,UL-Lafayette,Delaware,13,20,Delaware,Delaware,0.5521454530469357,Medium,True
+2025,2025-12-18,Missouri State,Arkansas State,28,34,Arkansas State,Arkansas State,0.597504890044253,Medium,True
+2025,2025-12-19,Kennesaw State,Western Michigan,6,41,Western Michigan,Western Michigan,0.6226042897291136,Medium,True
+2025,2025-12-19,Memphis,NC State,7,31,NC State,Memphis,0.6275314752287783,Medium,False
+2025,2025-12-19,Alabama,Oklahoma,34,24,Alabama,Oklahoma,0.5310060560541797,Low,False
+2025,2025-12-20,Miami (FL),Texas A&M,10,3,Miami (FL),Miami (FL),0.6424797816069217,Medium,True
+2025,2025-12-20,Tulane,Ole Miss,10,41,Ole Miss,Ole Miss,0.6777798057817755,High,True
+2025,2025-12-20,James Madison,Oregon,34,51,Oregon,Oregon,0.590966582768219,Medium,True
+2025,2025-12-22,Washington State,Utah State,34,21,Washington State,Washington State,0.5418564708956138,Low,True
+2025,2025-12-23,Toledo,Louisville,22,27,Louisville,Toledo,0.6687991328456273,High,False
+2025,2025-12-23,Western Kentucky,Southern Miss,27,16,Western Kentucky,Western Kentucky,0.5435022404640739,Low,True
+2025,2025-12-23,UNLV,Ohio,10,17,Ohio,Ohio,0.6044694483529203,Medium,True
+2025,2025-12-24,California,Hawaii,31,35,Hawaii,Hawaii,0.638177360614033,Medium,True
+2025,2025-12-26,Central Michigan,Northwestern,7,34,Northwestern,Northwestern,0.5920394109843221,Medium,True
+2025,2025-12-26,New Mexico,Minnesota,17,20,Minnesota,New Mexico,0.5443718165783615,Low,False
+2025,2025-12-26,FIU,UTSA,20,57,UTSA,UTSA,0.5514354076021871,Medium,True
+2025,2025-12-27,Pittsburgh,East Carolina,17,23,East Carolina,East Carolina,0.6299396941845071,Medium,True
+2025,2025-12-27,Penn State,Clemson,22,10,Penn State,Clemson,0.5250053254654412,Low,False
+2025,2025-12-27,Connecticut,Army,16,41,Army,Connecticut,0.5241757248752944,Low,False
+2025,2025-12-27,Georgia Tech,BYU,21,25,BYU,BYU,0.5999220574190332,Medium,True
+2025,2025-12-27,Miami (OH),Fresno State,3,18,Fresno State,Fresno State,0.6075066820378063,Medium,True
+2025,2025-12-27,North Texas,San Diego State,49,47,North Texas,San Diego State,0.5454820165543232,Low,False
+2025,2025-12-27,Virginia,Missouri,13,7,Virginia,Missouri,0.590190033781922,Medium,False
+2025,2025-12-27,LSU,Houston,35,38,Houston,Houston,0.5047474977790494,Low,True
+2025,2025-12-29,Georgia Southern,Appalachian State,29,10,Georgia Southern,Appalachian State,0.6200184699528459,Medium,False
+2025,2025-12-30,Coastal Carolina,Louisiana Tech,14,23,Louisiana Tech,Louisiana Tech,0.7980661737723673,High,True
+2025,2025-12-30,Tennessee,Illinois,28,30,Illinois,Illinois,0.5126260407945209,Low,True
+2025,2025-12-30,USC,TCU,27,30,TCU,USC,0.5650100342565589,Medium,False
+2025,2025-12-31,Iowa,Vanderbilt,34,27,Iowa,Iowa,0.505620194097968,Low,True
+2025,2025-12-31,Arizona State,Duke,39,42,Duke,Duke,0.530773958796658,Low,True
+2025,2025-12-31,Michigan,Texas,27,41,Texas,Texas,0.502616336163736,Low,True
+2025,2025-12-31,Nebraska,Utah,22,44,Utah,Utah,0.6972059875141063,High,True
+2025,2025-12-31,Miami (FL),Ohio State,24,14,Miami (FL),Ohio State,0.6541118902140652,High,False
+2025,2026-01-01,Oregon,Texas Tech,23,0,Oregon,Texas Tech,0.6592741104412351,High,False
+2025,2026-01-01,Alabama,Indiana,3,38,Indiana,Indiana,0.7414820491575909,High,True
+2025,2026-01-01,Ole Miss,Georgia,39,34,Ole Miss,Georgia,0.5648987942155111,Medium,False
+2025,2026-01-02,Rice,Texas State,10,41,Texas State,Texas State,0.7571944041797221,High,True
+2025,2026-01-02,Navy,Cincinnati,35,13,Navy,Cincinnati,0.629027121428646,Medium,False
+2025,2026-01-02,Wake Forest,Mississippi State,43,29,Wake Forest,Wake Forest,0.5301976870601188,Low,True
+2025,2026-01-02,Arizona,SMU,19,24,SMU,SMU,0.5358219659080464,Low,True
+2025,2026-01-08,Miami (FL),Ole Miss,31,27,Miami (FL),Miami (FL),0.5879133920784696,Medium,True
+2025,2026-01-09,Oregon,Indiana,22,56,Indiana,Indiana,0.6450805780962159,Medium,True
+2025,2026-01-19,Miami (FL),Indiana,21,27,Indiana,Indiana,0.6498703626014575,Medium,True
