@@ -79,5 +79,5 @@ The script will output the model's accuracy, a classification report, and genera
 * **Accuracy:** ~66% on unseen test data (2023-2025).
 
 ## Team Members
-* Samhitha Sudarshan
-* [Insert Teammate Name]
+* Samhitha S
+* Rohil Thimmanahalli Girish
