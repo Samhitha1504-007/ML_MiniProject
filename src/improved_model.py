@@ -20,8 +20,6 @@ print("Dataset shape:", df.shape)
 # --------------------------------------------------
 # 2. FEATURE ENGINEERING (DIFFERENTIAL STATISTICS)
 # --------------------------------------------------
-# The reference paper achieved its best accuracy (66%) using Differential Regression.
-# We create "differential features" by subtracting away team stats from home team stats.
 df["diff_pts_scored"] = df["home_pts_scored"] - df["away_pts_scored"]
 df["diff_pts_allowed"] = df["home_pts_allowed"] - df["away_pts_allowed"]
 df["diff_total_yards"] = df["home_total_yards"] - df["away_total_yards"]
@@ -54,7 +52,6 @@ y_test = test["winner"]
 # --------------------------------------------------
 # 4. FEATURE SCALING
 # --------------------------------------------------
-# Logistic Regression performs better when features are scaled to the same range
 scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
@@ -113,10 +110,8 @@ results = test[["season", "date", "away", "home", "score_away", "score_home"]].c
 results["actual_winner"] = np.where(test["winner"] == 1, results["home"], results["away"])
 results["predicted_winner"] = np.where(predicted_winner == 1, results["home"], results["away"])
 
-# Get the max probability as our confidence score
 results["win_probability"] = np.max(predicted_probs, axis=1)
 
-# Categorize confidence
 conditions = [
     (results["win_probability"] >= 0.65),
     (results["win_probability"] >= 0.55) & (results["win_probability"] < 0.65),
